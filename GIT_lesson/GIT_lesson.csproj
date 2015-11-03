@@ -172,6 +172,7 @@
     <Compile Include="Controllers\LoczekController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\Nowy2Controller.cs" />
+    <Compile Include="Controllers\SmylaController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -237,6 +238,7 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Smyla\Index.cshtml" />
     <Content Include="Views\Loczek\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
