@@ -10,6 +10,7 @@ namespace GIT_lesson.Controllers
     {
         public ActionResult Index()
         {
+           
             return View();
         }
 
