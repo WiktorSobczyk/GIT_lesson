@@ -7,6 +7,6 @@ namespace GIT_lesson.Controllers
 {
     public class DawidController
     {
-        public string DawidsName { get; set; }
+        public string Dawid { get; set; }
     }
 }
