@@ -7,5 +7,6 @@ namespace GIT_lesson
 {
     public class przykladowa_klasa
     {
+        //costam
     }
 }
